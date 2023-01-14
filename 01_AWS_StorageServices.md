@@ -26,7 +26,8 @@
 <li> It is Object-based storage, i.e., you can store the images, word files, pdf files, etc. The files which are stored in S3 can be from 0 Bytes to 5 TB.
 <li> S3 is a universal namespace, i.e., the names must be unique globally. Bucket contains a DNS address. Therefore, the bucket must contain a unique name to generate a unique DNS address.
 </ul>
-``` You can create only 100 buckets on a single AWS account.```
+
+##### You can create only 100 buckets on a single AWS account. </br>
 ![AWS S3 url](./assets/aws-s3.png)
 
 #### Advantages of AWS S3
