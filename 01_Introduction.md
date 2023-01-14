@@ -104,3 +104,11 @@ all the basic services of AWS in it. </i>
 <li>Free to use
 </ul>
 
+
+#### IAM Identities
+![IAM Identities](./assets/aws-iam-identities.png) 
+- IAM Users
+- IAM Groups
+- IAM Roles
+
+
