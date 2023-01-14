@@ -13,7 +13,7 @@ account which is absolutely free for 1 year and you can use
 all the basic services of AWS in it. </i>
 </ul>
 <hr>
-### Uses of AWS
+<h3> Uses of AWS
 <ul>
 <li> A small manufacturing organization uses their expertise to expand their business by leaving their IT management to the AWS.
 <li> A large enterprise spread across the globe can utilize the AWS to deliver the training to the distributed workforce.
