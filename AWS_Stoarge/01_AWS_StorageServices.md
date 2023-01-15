@@ -28,10 +28,10 @@
 </ul>
 
 ##### You can create only 100 buckets on a single AWS account. </br>
-![AWS S3 url](./assets/aws-s3.png)
+![AWS S3 url](/assets/aws-s3.png)
 
 #### Advantages of AWS S3
-![Advantages of AWS S3](./assets/advantages-of-aws-s3.jpg)
+![Advantages of AWS S3](/assets/advantages-of-aws-s3.jpg)
 - Create Buckets
 - Storing data in buckets
 - Download data
@@ -41,7 +41,7 @@
 - S3 is a simple key-value store
 
 #### AWS S3 Concepts
-![AWS S3 Concept](./assets/aws-s3-concepts.png)
+![AWS S3 Concept](/assets/aws-s3-concepts.png)
 <<<<<<< HEAD:01_AWS_StorageServices.md
 =======
 
