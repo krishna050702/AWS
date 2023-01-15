@@ -1,4 +1,3 @@
-<body style="background-color:powderblue;">
 <h3> AWS Stoarge Classes </h3>
 
 ![AWS S3 in Detail](/assets/aws-storage-classes.jpg)
