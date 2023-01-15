@@ -42,8 +42,6 @@
 
 #### AWS S3 Concepts
 ![AWS S3 Concept](/assets/aws-s3-concepts.png)
-<<<<<<< HEAD:01_AWS_StorageServices.md
-=======
 
 #### Steps to create S3 Bucket:-
 - Sign in to the AWS Management Console.
@@ -63,4 +61,3 @@
 <li> Access to the buckets can be controlled by using either ACL (Access Control List) or bucket policies.
 <li> By default buckets are private and all the objects stored in a bucket are also private.
 </ul>
->>>>>>> 69eb276 (s3):AWS_Stoarge/01_AWS_StorageServices.md
