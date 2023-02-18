@@ -1,5 +1,4 @@
 <h3 style="color:brown;">AWS EBS</h3>
-
 <ul>
 <li> It is also called as Elastic Block Store.
 <li> EBS volumes are used for data that needs to persist.
@@ -17,6 +16,13 @@
 <li> It saves on storage costs by not duplicating data.
 </ul>
 <li> Only tha data unique to that snapshot is removed when you delete a snapshot
-<li> ![EBS Snapshots](/assets/ebs_snapshots.jpg)
-
+<img src='/assets/ebs_snapshots.jpg'></img>
 </ul>
+
+
+<hr>
+<h3 style="color:brown;">AWS EFS</h3>
+<ul>
+<li> AWS EFS is also called AWS Elastic File System.
+<li> Compared to AWS EBS, AWS EFS saves the data in many Availability Zones.
+
